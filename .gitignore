@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+*.sqlite3
+local.properties
+*.keystore
+*.jks
+build/
+.gradle/
+.idea/
+*.iml
+.DS_Store
